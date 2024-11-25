@@ -1,0 +1,13 @@
+{
+  "name": "example",
+  "private": true,
+  "scripts": {
+    "test": "tsc --noEmit"
+  },
+  "author": "yamachu",
+  "license": "MIT",
+  "devDependencies": {
+    "@yamachu/types-hybridwebview": "file:..",
+    "typescript": "5.7.2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@yamachu/types-hybridwebview",
+  "version": "1.0.0",
+  "types": "index.d.ts",
+  "author": "yamachu",
+  "license": "MIT",
+  "description": "unofficial .NET MAUI HybridWebView types package",
+  "files": [
+    "index.d.ts",
+    "src"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
