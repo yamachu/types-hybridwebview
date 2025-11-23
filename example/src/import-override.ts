@@ -4,5 +4,6 @@
 interface Window {
   HybridWebView: HybridWebViewNet9_0.HybridWebViewType;
 }
+// NOTICE: The version specified here will be used throughout this project.
 
 window.HybridWebView.SendRawMessage("Hello with override");

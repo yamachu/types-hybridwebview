@@ -1,6 +1,6 @@
 # @yamachu/types-hybridwebview
 
-Unofficial [.NET MAUI HybridWebView](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/hybridwebview?view=net-maui-9.0) type definitions.
+Unofficial [.NET MAUI HybridWebView](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/hybridwebview?view=net-maui-10.0) type definitions.
 
 ## Installation
 
